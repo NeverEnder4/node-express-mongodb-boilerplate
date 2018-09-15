@@ -1,0 +1,16 @@
+{
+  "name": "express-server-setup",
+  "version": "1.0.0",
+  "description": "Basic express server demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "watch": "nodemon app"
+  },
+  "author": "Tony Pettigrew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
